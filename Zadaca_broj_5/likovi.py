@@ -18,8 +18,7 @@ class Kvadrat():
 
 
     def __str__(self):
-        return 'Kvadrat duljine stranice %.2f'%(self.duljina_stranice)
-
+        return 'Kvadrat duljine ove stranice %.2f'%(self.duljina_stranice)
 
 
 
