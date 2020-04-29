@@ -6,3 +6,7 @@ class Stvar(object):
 
     def __del__(self):
         Stvar.broj_stvari -= 1
+
+
+
+print("test zadaca 2")
