@@ -62,4 +62,4 @@ class Razlomak(object):
         novonastali = Razlomak(brojnik1.brojnik * nazivnik1.nazivnik, brojnik1.nazivnik * nazivnik1.brojnik)
         return novonastali
 
-        print("**test zadaca**")
+        print("**test zadaca*")
