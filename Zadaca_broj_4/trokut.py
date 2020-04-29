@@ -56,3 +56,6 @@ print('*** test 3 ***')
 trokuti = [Trokut(3,4,5),JednakokracniTrokut(3,4),JednakostranicniTrokut(5)]
 for t in trokuti:
     print(t)
+
+
+print("test zadaca broj 4")
