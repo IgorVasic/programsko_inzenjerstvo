@@ -75,3 +75,7 @@ class MultiSkup(object):
             self.__kljucevi.remove(element)
         else:
             self.__rijecnik[element] -= ponavljanj
+
+
+
+print("test zadaca broj 3")
