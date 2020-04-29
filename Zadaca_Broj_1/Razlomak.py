@@ -61,3 +61,5 @@ class Razlomak(object):
         nazivnik1 = Razlomak(self.nazivnik, other.nazivnik)
         novonastali = Razlomak(brojnik1.brojnik * nazivnik1.nazivnik, brojnik1.nazivnik * nazivnik1.brojnik)
         return novonastali
+
+        print("**test zadaca**")

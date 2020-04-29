@@ -5,7 +5,7 @@ class Kruznica(object):
 
 
     def __str__(self):
-        return f'Kruznica radiusa {round(self.radijus,2):f}'
+        return "Kruznica radiusa %.2f" % (self.radijus)
 
 
 class Kvadrat():
@@ -18,7 +18,7 @@ class Kvadrat():
 
 
     def __str__(self):
-        return f'Kvadrat duljine stranice {round(self.duljina_stranice,2):f}'
+        return 'Kvadrat duljine stranice %.2f'%(self.duljina_stranice)
 
 
 
